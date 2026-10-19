@@ -162,6 +162,12 @@ for (var i = es.length - 1; i >= 0; i--) {
 
 ---
 
+## 相关项目
+
+- **[zhihuishu-mastery](https://github.com/Maltts/zhihuishu-mastery)** — 智慧树「掌握度」半自动练习助手，同一套 CDP 技术栈
+
+---
+
 ## License
 
 [MIT](LICENSE)
