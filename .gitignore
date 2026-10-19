@@ -1,0 +1,10 @@
+# 浏览器配置目录（含登录态，绝不提交）
+profile/
+
+# 依赖与日志
+node_modules/
+*.log
+
+# 打包产物
+*.zip
+dist/
