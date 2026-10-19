@@ -46,7 +46,7 @@
 ### 三步
 
 ```bash
-git clone https://github.com/<your-name>/yuketang-multispeed.git
+git clone https://github.com/Maltts/yuketang-multispeed.git
 cd yuketang-multispeed
 ```
 
